@@ -1,0 +1,14 @@
+C:\Users\A19A16612\Desktop\Register-Employees\C#\FrmMenssager\FrmMenssager\bin\Debug\FrmMenssager.exe.config
+C:\Users\A19A16612\Desktop\Register-Employees\C#\FrmMenssager\FrmMenssager\bin\Debug\FrmMenssager.exe
+C:\Users\A19A16612\Desktop\Register-Employees\C#\FrmMenssager\FrmMenssager\bin\Debug\FrmMenssager.pdb
+C:\Users\A19A16612\Desktop\Register-Employees\C#\FrmMenssager\FrmMenssager\bin\Debug\Transitions.dll
+C:\Users\A19A16612\Desktop\Register-Employees\C#\FrmMenssager\FrmMenssager\bin\Debug\Transitions.pdb
+C:\Users\A19A16612\Desktop\Register-Employees\C#\FrmMenssager\FrmMenssager\obj\Debug\FrmMenssager.csproj.AssemblyReference.cache
+C:\Users\A19A16612\Desktop\Register-Employees\C#\FrmMenssager\FrmMenssager\obj\Debug\FrmMenssager.csproj.SuggestedBindingRedirects.cache
+C:\Users\A19A16612\Desktop\Register-Employees\C#\FrmMenssager\FrmMenssager\obj\Debug\FrmMenssager.Form1.resources
+C:\Users\A19A16612\Desktop\Register-Employees\C#\FrmMenssager\FrmMenssager\obj\Debug\FrmMenssager.Properties.Resources.resources
+C:\Users\A19A16612\Desktop\Register-Employees\C#\FrmMenssager\FrmMenssager\obj\Debug\FrmMenssager.csproj.GenerateResource.cache
+C:\Users\A19A16612\Desktop\Register-Employees\C#\FrmMenssager\FrmMenssager\obj\Debug\FrmMenssager.csproj.CoreCompileInputs.cache
+C:\Users\A19A16612\Desktop\Register-Employees\C#\FrmMenssager\FrmMenssager\obj\Debug\FrmMenssager.csproj.CopyComplete
+C:\Users\A19A16612\Desktop\Register-Employees\C#\FrmMenssager\FrmMenssager\obj\Debug\FrmMenssager.exe
+C:\Users\A19A16612\Desktop\Register-Employees\C#\FrmMenssager\FrmMenssager\obj\Debug\FrmMenssager.pdb
